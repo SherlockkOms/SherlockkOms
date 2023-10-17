@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **om.sangwan@mail.mcgill.ca**
 
-- 📄 [Know about my experiences](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
