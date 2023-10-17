@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="center">Aspiring Data Engineer</h3>
 
+## 🎓 Education:
+- [Master of Management in Analytics candidate at McGill University, Canada.](https://www.mcgill.ca/desautels/programs/mma)
+- 
+## 💼 Professional Experience:
+- Former Business Intelligence (BI) Analyst at Impendi, where I developed Qlik Sense dashboards, automated reports, and led Spend Analytics projects.
+- [Data Analyst Intern at Goldilocks Tech Solutions, where I built Python models for financial analysis and automated Excel reporting.](https://github.com/SherlockkOms/Automated-Options-Analyzer_2021)
+
+## 🤝 Volunteer and Leadership:
+- Representative of the McGill Case Competition Association, assisted in conducting and promoting case competitiions.
+- Served as Vice President of Sports within the MMA Internal Council, my mission was to promote physical fitness, strengthen our bonds with our peers, and provide opportunities to alleviate stress through both physical and e-sports.
+- Volunteered with "Umeed - A Drop of Hope" to teach Mathematics to underprivileged children.
+- Served as Marketing & Communications Associate at RAAH, the Business Economics Society of Khalsa College.
+
+## ⚽ Interests:
+- Passionate about soccer and enjoy gaming (FIFA, Fortnite, Rocket League) in my free time.
+- A music enthusiast with an eclectic taste.
+
 - 🔭 I’m currently studying [Master's of Management in Analytics](https://www.mcgill.ca/desautels/programs/mma)
 
 - 🌱 I am actively acquiring skills **in cloud infrastructure (Azure, AWS, GCP), Databricks, as well as other essential tools like Apache Spark, Apache Kafka, Hadoop, SQL databases, ETL processes, and data warehousing to become a proficient data engineer.**
@@ -11,7 +28,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing)
 
-- ⚡ Fun fact **I am a boyhood fan of Manchester United and an avid gamer (FIFA, Rocket League, Fortnite and.......... inf).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
