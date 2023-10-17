@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying [Master's of Management in Analytics](https://www.mcgill.ca/desautels/programs/mma)
 
-- 🌱 I’m currently learning **I am actively acquiring skills in cloud infrastructure (Azure, AWS, GCP), Databricks, as well as other essential tools like Apache Spark, Apache Kafka, Hadoop, SQL databases, ETL processes, and data warehousing to become a proficient data engineer.**
+- 🌱 I am actively acquiring skills **in cloud infrastructure (Azure, AWS, GCP), Databricks, as well as other essential tools like Apache Spark, Apache Kafka, Hadoop, SQL databases, ETL processes, and data warehousing to become a proficient data engineer.**
 
 - 👯 I’m looking to collaborate on **some intriguing data analytics end-to-end projects in the Sports & Gaming industry.**
 
