@@ -6,7 +6,7 @@
 - 
 ## 💼 Professional Experience:
 - Former Business Intelligence (BI) Analyst at Impendi, where I developed Qlik Sense dashboards, automated reports, and led Spend Analytics projects.
-- [Data Analyst Intern at Goldilocks Tech Solutions, where I built Python models for financial analysis and automated Excel reporting.](https://github.com/SherlockkOms/Automated-Options-Analyzer_2021)
+- Data Analyst Intern at Goldilocks Tech Solutions, where I built [Python models for financial analysis and automated Excel reporting.](https://github.com/SherlockkOms/Automated-Options-Analyzer_2021)
 
 ## 🤝 Volunteer and Leadership:
 - Representative of the McGill Case Competition Association, assisted in conducting and promoting case competitiions.
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **om.sangwan@mail.mcgill.ca**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
