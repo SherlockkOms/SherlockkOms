@@ -3,7 +3,7 @@
 
 ## 🎓 Education:
 - [Master of Management in Analytics candidate at McGill University, Canada.](https://www.mcgill.ca/desautels/programs/mma)
-- 
+
 ## 💼 Professional Experience:
 - Former Business Intelligence (BI) Analyst at Impendi, where I developed Qlik Sense dashboards, automated reports, and led Spend Analytics projects.
 - Data Analyst Intern at Goldilocks Tech Solutions, where I built [Python models for financial analysis and automated Excel reporting.](https://github.com/SherlockkOms/Automated-Options-Analyzer_2021)
@@ -17,8 +17,6 @@
 ## ⚽ Interests:
 - Passionate about soccer and enjoy gaming (FIFA, Fortnite, Rocket League) in my free time.
 - A music enthusiast with an eclectic taste.
-
-- 🔭 I’m currently studying [Master's of Management in Analytics](https://www.mcgill.ca/desautels/programs/mma)
 
 - 🌱 I am actively acquiring skills **in cloud infrastructure (Azure, AWS, GCP), Databricks, as well as other essential tools like Apache Spark, Apache Kafka, Hadoop, SQL databases, ETL processes, and data warehousing to become a proficient data engineer.**
 
