@@ -22,8 +22,6 @@
 
 - 👯 I’m looking to collaborate on **some intriguing data analytics end-to-end projects in the Sports & Gaming industry.**
 
-- 📫 How to reach me **om.sangwan@mail.mcgill.ca**
-
 - 📄 [Know about my experiences](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing)
 
 
