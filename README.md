@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="center">Aspiring Data Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishangupta33&label=Profile%20views&color=0e75b6&style=flat" alt="sherlockkoms" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherlockkoms&label=Profile%20views&color=0e75b6&style=flat" alt="sherlockkoms" /> </p>
 
 ## 🎓 Education:
 - [Master of Management in Analytics candidate at McGill University, Canada.](https://www.mcgill.ca/desautels/programs/mma)
