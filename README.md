@@ -10,12 +10,6 @@
 - Former Business Intelligence (BI) Analyst at Impendi, where I developed Qlik Sense dashboards, automated reports, and led Spend Analytics projects.
 - Data Analyst Intern at Goldilocks Tech Solutions, where I built [Python models for financial analysis and automated Excel reporting.](https://github.com/SherlockkOms/Automated-Options-Analyzer_2021)
 
-## 🤝 Volunteer and Leadership:
-- Representative of the McGill Case Competition Association, assisted in conducting and promoting case competitiions.
-- Served as Vice President of Sports within the MMA Internal Council, my mission was to promote physical fitness, strengthen our bonds with our peers, and provide opportunities to alleviate stress through both physical and e-sports.
-- Volunteered with "Umeed - A Drop of Hope" to teach Mathematics to underprivileged children.
-- Served as Marketing & Communications Associate at RAAH, the Business Economics Society of Khalsa College.
-
 ## ⚽ Interests:
 - Passionate about soccer and enjoy gaming (FIFA, Fortnite, Rocket League) in my free time.
 - A music enthusiast with an eclectic taste.
