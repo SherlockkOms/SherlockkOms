@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **some intriguing data analytics end-to-end projects in the Sports & Gaming industry.**
 
-- 📄 [Know about my experiences](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/drive/folders/1kJtT34oD4ym4soY6ys5uhLKelLhKCr0C)
 
 
 <h3 align="left">Connect with me:</h3>
