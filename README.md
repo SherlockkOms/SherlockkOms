@@ -7,7 +7,7 @@
 - [Master of Management in Analytics candidate at McGill University, Canada.](https://www.mcgill.ca/desautels/programs/mma)
 
 ## 💼 Professional Experience:
-- Former Business Intelligence (BI) Analyst at Impendi, where I developed Qlik Sense dashboards, automated reports, and led Spend Analytics projects.
+- Former Business Intelligence (BI) Engineer at Impendi, where I developed Qlik Sense dashboards, automated reports, and led Spend Analytics projects.
 - Data Analyst Intern at Goldilocks Tech Solutions, where I built [Python models for financial analysis and automated Excel reporting.](https://github.com/SherlockkOms/Automated-Options-Analyzer_2021)
 
 ## ⚽ Interests:
